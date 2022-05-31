@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi guys, hope to work with you 👋
+![Image of Yaktocat](https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg)
 <!--
 **thiettb/ThietTB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
